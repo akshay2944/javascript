@@ -8,7 +8,7 @@ jobs:
     outputs:
       latest: ${{ steps.set-matrix.outputs.requireds }}
     steps:
-      - uses: ljharb/actions/node/matrix@main
+      - uses: ljharb/actions/node/akshay2944
         id: set-matrix
         with:
           versionsAsRoot: true

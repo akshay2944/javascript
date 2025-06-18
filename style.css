@@ -1,0 +1,22 @@
+*{margin: 0px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+}
+#redash{
+    color: red;
+}
+#searchbar{
+    width: 264px;
+}
+#github{
+    background-color: brown;
+}
+.reddashboard{
+    width: 230px;
+    height: 100%;
+    align-items: start;
+    justify-content: right;
+}
